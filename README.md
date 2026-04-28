@@ -8,10 +8,12 @@ Casper Excalibur dizüstü bilgisayarlar için donanımsal olarak bulunmayan **"
 
 ## 🌟 Özellikler
 
-* **Fn Lock:** `Scroll Lock` tuşuna basarak Fn tuşlarına basılı tutmanıza gerek kalmadan medya ve sistem kısayollarını kullanabilirsiniz.
+* **Fn Lock:** `Scroll Lock` (Fn + NumLock) tuşuna basarak Fn tuşlarına basılı tutmanıza gerek kalmadan medya ve sistem kısayollarını kullanabilirsiniz.
 * **Özel Parlaklık OSD'si:** Cihazın kendi sürücülerinde eksik olan parlaklık çubuğunu; gri arka plana ve beyaz güneş logosuna sahip modern bir arayüzle ekrana yansıtır.
 * **Özel Kısayol Haritası (Scroll Lock Açıkken):**
-    * `F1`, `F2`, `F3`: Projeksiyon/Ekran Seçenekleri (Win + P)
+    * `F1`: Boş Kısayol kendiniz atama yapabilirsiniz.
+    * `F2`: Boş Kısayol kendiniz atama yapabilirsiniz.
+    * `F3`: Projeksiyon/Ekran Seçenekleri (Win + P)
     * `F4`: Parlaklığı Azalt (-10)
     * `F5`: Parlaklığı Artır (+10)
     * `F6`: Sesi Kapat (Mute)
@@ -22,7 +24,7 @@ Casper Excalibur dizüstü bilgisayarlar için donanımsal olarak bulunmayan **"
     * `F11`: Önceki Medya
     * `F12`: Sonraki Medya
     * `Numpad /` : Home
-    * `Numpad *` : End
+    * `Numpad *` : End (Bu ikisini işlevsel bulduğum için ekledim dilerseniz koddan silip o tuşları normal fonksiyonuyla kullanabilirsinz)
 
 ---
 
