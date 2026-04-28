@@ -24,7 +24,7 @@ Casper Excalibur dizüstü bilgisayarlar için donanımsal olarak bulunmayan **"
     * `F11`: Önceki Medya
     * `F12`: Sonraki Medya
     * `Numpad /` : Home
-    * `Numpad *` : End (Bu ikisini işlevsel bulduğum için ekledim dilerseniz koddan silip o tuşları normal fonksiyonuyla kullanabilirsinz)
+    * `Numpad *` : End (Bu ikisini işlevsel bulduğum için ekledim dilerseniz koddan silip o tuşları normal fonksiyonuyla kullanabilirsiniz)
 
 ---
 
