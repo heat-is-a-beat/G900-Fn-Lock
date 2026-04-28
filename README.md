@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27183649/README.md)
 # Casper Excalibur G900 Custom Fn Lock & Brightness OSD
 
 Casper Excalibur dizüstü bilgisayarlar için donanımsal olarak bulunmayan **"Fn Lock" (Fonksiyon Kilidi)** özelliğini yazılımsal olarak ekleyen ve cihazın kendi HotkeyOSD sürücüsünün ekrana yansıtmadığı **Parlaklık (Brightness) arayüzünü** şık bir OSD (On-Screen Display) ile ekrana getiren AutoHotkey v2 betiğidir. Bu versiyon, özel bir klavye dizilimi için tasarlanmıştır.
