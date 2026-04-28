@@ -2,33 +2,33 @@
 
 Casper Excalibur dizüstü bilgisayarlar için donanımsal olarak bulunmayan **"Fn Lock" (Fonksiyon Kilidi)** özelliğini yazılımsal olarak ekleyen ve cihazın kendi HotkeyOSD sürücüsünün ekrana yansıtmadığı **Parlaklık (Brightness) arayüzünü** şık bir OSD (On-Screen Display) ile ekrana getiren AutoHotkey v2 betiğidir. Bu versiyon, özel bir klavye dizilimi için tasarlanmıştır.
 
-[cite_start]⚠️ **Uyarı:** Bu betik AutoHotkey v2 gerektirir [cite: 1] ve özel klavye kısayolları içerir. Diğer notebook modellerinde denenmemiştir.
+⚠️ **Uyarı:** Bu betik AutoHotkey v2 gerektirir ve özel klavye kısayolları içerir. Diğer notebook modellerinde denenmemiştir.
 
 ---
 
 ## 🌟 Özellikler
 
-* [cite_start]**Fn Lock:** `Scroll Lock` tuşuna basarak  Fn tuşlarına basılı tutmanıza gerek kalmadan medya ve sistem kısayollarını kullanabilirsiniz.
-* [cite_start]**Özel Parlaklık OSD'si:** Cihazın kendi sürücülerinde eksik olan parlaklık çubuğunu; gri arka plana [cite: 7] [cite_start]ve beyaz güneş logosuna sahip [cite: 9] modern bir arayüzle ekrana yansıtır.
+* **Fn Lock:** `Scroll Lock` tuşuna basarak Fn tuşlarına basılı tutmanıza gerek kalmadan medya ve sistem kısayollarını kullanabilirsiniz.
+* **Özel Parlaklık OSD'si:** Cihazın kendi sürücülerinde eksik olan parlaklık çubuğunu; gri arka plana ve beyaz güneş logosuna sahip modern bir arayüzle ekrana yansıtır.
 * **Özel Kısayol Haritası (Scroll Lock Açıkken):**
-    * [cite_start]`F1`, `F2`, `F3`: Projeksiyon/Ekran Seçenekleri (Win + P) 
-    * [cite_start]`F4`: Parlaklığı Azalt (-10) 
-    * [cite_start]`F5`: Parlaklığı Artır (+10) 
-    * [cite_start]`F6`: Sesi Kapat (Mute) 
-    * [cite_start]`F7`: Sesi Kıs 
-    * [cite_start]`F8`: Sesi Aç 
-    * [cite_start]`F9`: Oynat / Duraklat 
-    * [cite_start]`F10`: Medyayı Durdur 
-    * [cite_start]`F11`: Önceki Medya 
-    * [cite_start]`F12`: Sonraki Medya 
-    * [cite_start]`Numpad /` : Home 
-    * [cite_start]`Numpad *` : End 
+    * `F1`, `F2`, `F3`: Projeksiyon/Ekran Seçenekleri (Win + P)
+    * `F4`: Parlaklığı Azalt (-10)
+    * `F5`: Parlaklığı Artır (+10)
+    * `F6`: Sesi Kapat (Mute)
+    * `F7`: Sesi Kıs
+    * `F8`: Sesi Aç
+    * `F9`: Oynat / Duraklat
+    * `F10`: Medyayı Durdur
+    * `F11`: Önceki Medya
+    * `F12`: Sonraki Medya
+    * `Numpad /` : Home
+    * `Numpad *` : End
 
 ---
 
 ## 🛠️ Gereksinimler
 
-1.  [cite_start]**AutoHotkey v2:** Bu betik AHK v2 standartlarında yazılmıştır[cite: 1]. Bilgisayarınızda [AutoHotkey v2](https://www.autohotkey.com/) yüklü olmalıdır.
+1.  **AutoHotkey v2:** Bu betik AHK v2 standartlarında yazılmıştır. Bilgisayarınızda [AutoHotkey v2](https://www.autohotkey.com/) yüklü olmalıdır.
 2.  **Sürücüler:** Sisteminizin stabil çalışması için cihazınıza ait orijinal sürücülerin kurulu olması tavsiye edilir.
 
 ---
@@ -50,6 +50,6 @@ Parlaklık ayarlarının WMI üzerinden kontrol edilebilmesi için uygulamanın 
 
 Ekrana gelen parlaklık göstergesini özelleştirmek isterseniz `Fn_Lock.ahk` dosyasını düzenleyerek `MAIN OSD CONFIGURATION` başlığı altındaki değerleri değiştirebilirsiniz:
 
-* [cite_start]`OSD_W` ve `OSD_H`: Kutunun genişliği (146) [cite: 2] [cite_start]ve yüksekliği (134)[cite: 4].
-* [cite_start]`OSD_X` ve `OSD_Y`: Kutunun ekrandaki X (887) [cite: 5] [cite_start]ve Y (819) [cite: 6] konumu.
-* [cite_start]`Fade_Speed`: Animasyon hızı (25 olarak ayarlanmıştır)[cite: 10].
+* `OSD_W` ve `OSD_H`: Kutunun genişliği (146) ve yüksekliği (134).
+* `OSD_X` ve `OSD_Y`: Kutunun ekrandaki X (887) ve Y (819) konumu.
+* `Fade_Speed`: Animasyon hızı (25 olarak ayarlanmıştır).
